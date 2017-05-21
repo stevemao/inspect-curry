@@ -1,6 +1,6 @@
 {
   "name": "inspect-curry",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "curry with debuggable glory",
   "main": "index.js",
   "scripts": {
