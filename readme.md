@@ -22,7 +22,7 @@ console.log(inc)
 
 ```js
 console.log(inc)
-// => map(add(1))
+// map(add(1))
 ```
 
 See https://medium.com/@drboolean/debugging-functional-7deb4688a08c
