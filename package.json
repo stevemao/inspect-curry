@@ -1,0 +1,33 @@
+{
+  "name": "inspect-curry",
+  "version": "0.0.0",
+  "description": "curry with debuggable glory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/inspect-curry.git"
+  },
+  "keywords": [
+    "curry",
+    "debug",
+    "toString",
+    "debuggable",
+    "inspect",
+    "fp",
+    "functional",
+    "programming",
+    "test"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/inspect-curry/issues"
+  },
+  "homepage": "https://github.com/stevemao/inspect-curry#readme",
+  "devDependencies": {
+    "jest": "^20.0.3"
+  }
+}
